@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/joe/rosLearning/workplace2/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/joe/rosLearning/workplace2/src/learning_service/include",
+                "/home/joe/rosLearning/workplace2/src/learning_topic/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,9 @@
+/home/joe/rosLearning/workplace2/install/_setup_util.py
+/home/joe/rosLearning/workplace2/install/env.sh
+/home/joe/rosLearning/workplace2/install/setup.bash
+/home/joe/rosLearning/workplace2/install/local_setup.bash
+/home/joe/rosLearning/workplace2/install/setup.sh
+/home/joe/rosLearning/workplace2/install/local_setup.sh
+/home/joe/rosLearning/workplace2/install/setup.zsh
+/home/joe/rosLearning/workplace2/install/local_setup.zsh
+/home/joe/rosLearning/workplace2/install/.rosinstall
