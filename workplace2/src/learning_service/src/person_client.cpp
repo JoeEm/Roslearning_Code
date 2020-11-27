@@ -23,6 +23,7 @@ int main(int argc, char **argv)
 
     ROS_INFO("Show person result: %s", srv.response.result.c_str());
 
+    //make a comment here for testing the git function
     return 0;
 }
 
