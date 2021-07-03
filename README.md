@@ -11,5 +11,5 @@ unbuntu 16.04
 
 
 Some demo code for ROS.......(branch-HF)
-Fixed the serious Issue.
+Fixed the serious Issue. check the diff.
 
